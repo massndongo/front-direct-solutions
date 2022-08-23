@@ -1,0 +1,11 @@
+.multi_select_box {
+    width: 400px;
+    margin: 80px auto;
+}
+.multi_select_box select {
+    width: 100%;
+}
+
+#selectize-optgroup-selectized {
+    background: red;
+}
